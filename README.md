@@ -12,3 +12,7 @@ Lorem
 ## Rozdział II
 
 Ipsum
+
+## Rozdział III
+
+Lorem Ipsum
